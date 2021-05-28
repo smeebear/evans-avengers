@@ -1,5 +1,5 @@
 <template>
-  <navbar class=""/>
+  <navbar class="sticky top-0"/>
   <router-view/>  
 </template>
 

@@ -1,11 +1,11 @@
 <template>
   <div class="nav bg-dark text-white h-12">
-      <ul class='cursor-pointer '>
-          <li class="inline hover:bg-space">Home</li>
+      <ul class='cursor-pointer pt-3'>
+          <li class="inline hover:text-purple"><router-link to="/">Home</router-link></li>
           |
-          <li class="inline hover:bg-space">About</li>
+          <li class="inline hover:text-purple"><router-link to="/About">About</router-link></li>
           |
-          <li class="inline hover:bg-space">Whatever</li>
+          <li class="inline hover:text-purple">Whatever</li>
       </ul>
   </div>
 </template>
