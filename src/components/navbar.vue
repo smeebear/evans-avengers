@@ -4,8 +4,6 @@
           <li class="inline hover:text-purple"><router-link to="/">Home</router-link></li>
           |
           <li class="inline hover:text-purple"><router-link to="/About">About</router-link></li>
-          |
-          <li class="inline hover:text-purple">Whatever</li>
       </ul>
   </div>
 </template>

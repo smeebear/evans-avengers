@@ -1,7 +1,7 @@
 <template>
   <div class="home align-middle justify-center">
     
-    <p>Whatupppppp SSSSSaaaaaaaaaaaaaaammmmmmmmmmm</p>
+    <p>This is the Home Page</p>
   </div>
 </template>
 
